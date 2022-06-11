@@ -1,4 +1,4 @@
-## ⚡ WELCOME TO MY PROFILE
+## ⚡ WELCOME TO MY ORGANISATION PROFILE
 
 ## Hi there 👋
 
