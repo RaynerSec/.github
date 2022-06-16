@@ -1,6 +1,6 @@
 <p align="center">
 
-## ⚡ WELCOME TO RAYNERSEC PROFILE
+## ⚡ WELCOME TO RAYNERSEC ORGANISATION PROFILE
 
 <p align="center"><img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/54022039?s=200&v=4" /></p>
 
