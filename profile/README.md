@@ -1,4 +1,5 @@
 <p align="center">
+<!--  <p align="left"> <img src="https://gpvc.arturio.dev/raynersec" alt="raynersec" /></p> -->
 
 ## ⚡ WELCOME TO RAYNERSEC ORGANISATION PROFILE
 
