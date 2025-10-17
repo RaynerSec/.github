@@ -5,7 +5,7 @@
 
 <p align="center"><img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/54022039?s=200&v=4" /></p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=raynersec&style=flat-square&color=brightgreen" alt="raynersec" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raynersec&style=flat-square&color=brightgreen" alt="raynersec" /></p>
 
 ## Hi there 👋
 
