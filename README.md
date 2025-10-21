@@ -9,6 +9,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raynersec&style=flat-square&color=brightgreen" alt="raynersec" /></p>
 
+[![GitHub Info](https://stats.justsong.cn/api/github?username=raynersec&theme=dark)](https://github.com/raynersec)
+
 ## Hi there 👋
 
 Welcome To RaynerSec's Organisation On GitHub Where We love All Things Open Source.
