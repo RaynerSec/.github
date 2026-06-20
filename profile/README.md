@@ -36,16 +36,16 @@ Cyber Security And Software Development Company.
 </p>
 
 <p align="center">
-<a href="https://github.com/raynersec/Kali-Nethunter-In-Termux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=Kali-Nethunter-In-Termux&theme=dark"></a>
-<a href="https://github.com/raynersec/Hyper-V-Switch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=Hyper-V-Switch&theme=dark"></a>
-<a href="https://github.com/raynersec/Hyper-V-Toggle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=Hyper-V-Toggle&theme=dark"></a>
-<a href="https://github.com/raynersec/Windows-Recall-Switch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=Windows-Recall-Switch&theme=dark"></a>
-<a href="https://github.com/raynersec/Windows-Recall-Toggle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=Windows-Recall-Toggle&theme=dark"></a>
-<a href="https://github.com/raynersec/TermuxBackup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=TermuxBackup&theme=dark"></a>
-<a href="https://github.com/raynersec/pykalimux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=pykalimux&theme=dark"></a>
-<a href="https://github.com/raynersec/pymuxkali"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=pymuxkali&theme=dark"></a>
-<a href="https://github.com/raynersec/bashkalimux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=bashkalimux&theme=dark"></a>
-<a href="https://github.com/raynersec/bashmuxkali"><img src="https://github-readme-stats.vercel.app/api/pin/?username=raynersec&repo=bashmuxkali&theme=dark"></a>
+<a href="https://github.com/raynersec/Kali-Nethunter-In-Termux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=Kali-Nethunter-In-Termux&theme=dark"></a>
+<a href="https://github.com/raynersec/Hyper-V-Switch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=Hyper-V-Switch&theme=dark"></a>
+<a href="https://github.com/raynersec/Hyper-V-Toggle"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=Hyper-V-Toggle&theme=dark"></a>
+<a href="https://github.com/raynersec/Windows-Recall-Switch"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=Windows-Recall-Switch&theme=dark"></a>
+<a href="https://github.com/raynersec/Windows-Recall-Toggle"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=Windows-Recall-Toggle&theme=dark"></a>
+<a href="https://github.com/raynersec/TermuxBackup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=TermuxBackup&theme=dark"></a>
+<a href="https://github.com/raynersec/pykalimux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=pykalimux&theme=dark"></a>
+<a href="https://github.com/raynersec/pymuxkali"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=pymuxkali&theme=dark"></a>
+<a href="https://github.com/raynersec/bashkalimux"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=bashkalimux&theme=dark"></a>
+<a href="https://github.com/raynersec/bashmuxkali"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=bashmuxkali&theme=dark"></a>
 </p>
 
 <!--
