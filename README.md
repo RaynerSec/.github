@@ -17,6 +17,10 @@
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=raynersec&theme=dark)](https://github.com/raynersec)
 
+## Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Hi there 👋
 
 Welcome To RaynerSec's Organisation On GitHub Where We love All Things Open Source.
