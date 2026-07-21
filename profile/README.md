@@ -15,6 +15,16 @@
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=raynersec&theme=dark)](https://github.com/raynersec)
 
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Languages By Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Top Languages By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raynersec&theme=chartreuse_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## Random Dev Quote
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
