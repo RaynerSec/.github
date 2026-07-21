@@ -1,4 +1,5 @@
 <p align="center">
+<!-- GitAds-Verify: VU8ZNR42DYZ43L9OHQNOYGV2L2JZN94A -->
 <!--  <p align="left"> <img src="https://gpvc.arturio.dev/raynersec" alt="raynersec" /></p> -->
 
 ## ⚡ WELCOME TO RAYNERSEC ORGANISATION PROFILE
