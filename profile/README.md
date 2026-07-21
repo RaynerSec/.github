@@ -25,10 +25,6 @@
 
 [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raynersec&theme=chartreuse_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## Random Dev Quote
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 ## Hi there 👋
 
 Welcome To RaynerSec's Organisation On GitHub Where We love All Things Open Source.
