@@ -23,8 +23,6 @@
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raynersec&theme=chartreuse_dark&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 ## Hi there 👋
 
 Welcome To RaynerSec's Organisation On GitHub Where We love All Things Open Source.
