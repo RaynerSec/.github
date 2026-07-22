@@ -23,6 +23,10 @@
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+## Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Hi there 👋
 
 Welcome To RaynerSec's Organisation On GitHub Where We love All Things Open Source.
