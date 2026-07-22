@@ -25,7 +25,7 @@
 
 ## Random Dev Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## Hi there 👋
 
