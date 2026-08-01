@@ -5,6 +5,8 @@
 
 ## ⚡ WELCOME TO RAYNERSEC ORGANISATION PROFILE
 
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&size=14&pause=1000&center=true&vCenter=true&width=435&lines=WELCOME+TO+RAYNERSEC+ORGANISATION+PROFILE" alt="Typing SVG" /></a></p>
+
 <p align="center"><img alt="profile pic" width="195px" src="https://avatars.githubusercontent.com/u/54022039?s=200&v=4" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raynersec&style=for-the-badge&color=brightgreen" alt="raynersec" /></p>
