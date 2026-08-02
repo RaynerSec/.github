@@ -17,13 +17,13 @@
 
 [![GitHub Info](https://stats.justsong.cn/api/github?username=raynersec&theme=dark)](https://github.com/raynersec)
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Details](https://raw.githubusercontent.com/RaynerSec/.github/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Languages By Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages By Repo](https://raw.githubusercontent.com/RaynerSec/.github/main/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Top Languages By Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Languages By Commit](https://raw.githubusercontent.com/RaynerSec/.github/main/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raynersec&theme=chartreuse_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Stats](https://raw.githubusercontent.com/RaynerSec/.github/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Hi there 👋
 
