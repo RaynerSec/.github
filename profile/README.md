@@ -1,5 +1,6 @@
 <p align="center">
 <!--  <p align="left"> <img src="https://gpvc.arturio.dev/raynersec" alt="raynersec" /></p> -->
+<!-- [![GitHub Info](https://stats.justsong.cn/api/github?username=raynersec&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards) -->
 
 ## ⚡ WELCOME TO RAYNERSEC ORGANISATION PROFILE
 
@@ -14,8 +15,6 @@
 [![committers.top badge](https://org-badge.committers.top/malaysia_private/raynersec.svg)](https://org-badge.committers.top/malaysia_private/raynersec)
 
 [![This Website is Powered by DigitalPlat FreeDomain Get a free domain from DigitalPlat](https://img.shields.io/badge/DigitalPlat-Get%20a%20free%20domain%20from%20DigitalPlat-111827?style=for-the-badge&logo=databricks&logoColor=93c5fd)](https://dash.domain.digitalplat.org/signup?ref=fqFKuAnTHD)
-
-[![GitHub Info](https://stats.justsong.cn/api/github?username=raynersec&theme=chartreuse-dark)](https://github.com/songquanpeng/stats-cards)
 
 [![Profile Details](https://raw.githubusercontent.com/RaynerSec/.github/main/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
