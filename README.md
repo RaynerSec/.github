@@ -26,6 +26,8 @@
 
 [![Stats](https://raw.githubusercontent.com/RaynerSec/.github/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[<img align="center" src="https://awesometime.vercel.app/api" width="500" height="auto" alt="Year Progress"/>](https://awesometime.vercel.app)
+
 ## Hi there 👋
 
 Welcome To RaynerSec's Organisation On GitHub Where We love All Things Open Source.
