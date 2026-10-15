@@ -24,7 +24,7 @@
 
 [![Stats](https://raw.githubusercontent.com/RaynerSec/.github/main/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[<img align="center" src="https://awesometime.vercel.app/api?type=year-progress&period=year&locale=en&font=mono&tz=Asia/Kuala_Lumpur&style=terminal&theme=github-dark" width="500" height="auto" alt="Year Progress"/>](https://github.com/tiger-dreams/awesometime)
+[<img align="center" src="https://raw.githubusercontent.com/RaynerSec/.github/main/awesome-time.svg" width="500" height="auto" alt="Year Progress"/>](https://github.com/tiger-dreams/awesometime)
 
 ## Hi there 👋
 
