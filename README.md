@@ -62,6 +62,7 @@ Cyber Security And Software Development Company.
 <a href="https://github.com/raynersec/weewx-temperaturnu"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=weewx-temperaturnu&theme=chartreuse-dark"></a>
 <a href="https://github.com/raynersec/termux-backup"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=termux-backup&theme=chartreuse-dark"></a>
 <a href="https://github.com/raynersec/termux-keyring-store"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=termux-keyring-store&theme=chartreuse-dark"></a>
+<a href="https://github.com/raynersec/scoop-bucket"><img src="https://github-stats-extended.vercel.app/api/pin/?username=raynersec&repo=scoop-bucket&theme=chartreuse-dark"></a>
 </p>
 
 <!--
